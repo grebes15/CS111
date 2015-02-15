@@ -1,0 +1,45 @@
+//**********************************************
+//Andreas Landgrebe cs 111 fall semester 2012
+//
+//Lab 2 Problem 1
+//**********************************************
+
+
+
+public class AlleghenyProblem 1{
+    
+    public static void main (String[] args)
+{
+    Scanner input = new Scanner (System.in);
+    int #1;//(this is input number 1)
+    int #2;//(this is input number 2)
+    System.out.println("enter input number 1");
+    #1 = input.nextInt();
+    System.out.println("enter input number 2");
+    #2 = input.nextInt();
+
+    int sum = #1 + #2;//this calculates the sum of the two intergers.
+	
+    int difference = #1 - #2;//this calculates the different of the two intergers.
+
+    int product = #1* #2;//this calculates the product of the two intergers.
+
+    double quotient = #1/(#2 + 0.0);//this calculates the quotient of the two intergers.
+
+    double remainder = #1 % #2;//this calculates the remainder of the two intergers.
+
+    double average = #1 + #2/2;//this calculates the average of the two intergers.
+
+    int square = (#1 + #2)*(#1 + #2);// this calculates the square of the two intergers.
+
+    System.out.println("the sum is "+sum );
+    System.out.println("the differnce is "+difference );
+    System.out.println("the product is "+product );
+    System.out.println("the quotient is"+quotient );
+    System.out.println("the remainder is"+remainder );
+    System.out.println("the average is"+average );
+    System.out.println("the square is"+square );
+    }
+}
+    
+	

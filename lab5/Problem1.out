@@ -1,0 +1,49 @@
+Script started on Wed 10 Oct 2012 06:18:38 PM EDT
+]0;landgrebea@aldenv168: ~/cs111/lab5landgrebea@aldenv168:~/cs111/lab5$ java GrDE[K[KADE[K[K[KadeBook
+enter the name of the first student
+Jennifer SMith    mith
+enter the id of the first student
+10001
+enter the major of the first student
+COmpu    omputer Scince   ence
+enter the name of the second student
+TR R ravs is JOnes    ones
+enter the id of the second student
+10002
+enter the major of the second student
+Communicario   tion a a Arts
+Enter the score for lab1 for the first student
+26.5
+Enter the score for lab2 for the first student
+28
+Enter the score for exam1 for the first student
+87.5
+Enter the score for exam2 for the first student
+96
+Enter the score for lab1 for the second student
+24
+Enter the score for lab2 for the second student
+28.5
+Enter the score for exam1 for the second student
+84
+Enter the score for exam2 for the second student
+90.5
+Student Name	IdNo	Major			Lab1	Lab2	Exam1	Exam2
+Jennifer Smith	10001	Computer Science	26.5	28.0	87.5	96.0
+Travis Jones	10002	Communication Arts	24.0	28.5	84.0	90.5
+Laboratory work:
+Student Name	Lab1	Lab2	Lab Average
+Jennifer Smith	26.5	28.0	90.8
+Travis Jones	24.0	28.5	87.5
+Exam Work:
+Student Name	exam1	exam2	Exam Average
+Jennifer Smith	87.5	96.0	91.8
+Travis Jones	84.0	90.5	87.2
+Overall Average
+Student Name	 Average
+Jennifer Smith	91.2
+Travis Jones	87.4
+]0;landgrebea@aldenv168: ~/cs111/lab5landgrebea@aldenv168:~/cs111/lab5$ exirt[K[Kt
+exit
+
+Script done on Wed 10 Oct 2012 06:21:05 PM EDT

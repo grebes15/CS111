@@ -1,0 +1,21 @@
+Script started on Wed 19 Sep 2012 03:53:17 PM EDT
+]0;landgrebea@aldenv168: ~/cs111/lab3landgrebea@aldenv168:~/cs111/lab3$ javac Pr[K[K[K[K Prop[K[Koblem2
+enter how many Fahrenheit degrees
+32
+Fahrenheit in celsius is 0.0
+]0;landgrebea@aldenv168: ~/cs111/lab3landgrebea@aldenv168:~/cs111/lab3$ java Problem2
+enter how many Fahrenheit degrees
+17
+Fahrenheit in celsius is -8.333333333333334
+]0;landgrebea@aldenv168: ~/cs111/lab3landgrebea@aldenv168:~/cs111/lab3$ java Problem2
+enter how many Fahrenheit degrees
+100
+Fahrenheit in celsius is 37.77777777777778
+]0;landgrebea@aldenv168: ~/cs111/lab3landgrebea@aldenv168:~/cs111/lab3$ java Problem2
+enter how many Fahrenheit degrees
+60
+Fahrenheit in celsius is 15.555555555555555
+]0;landgrebea@aldenv168: ~/cs111/lab3landgrebea@aldenv168:~/cs111/lab3$ exit
+exit
+
+Script done on Wed 19 Sep 2012 03:54:37 PM EDT

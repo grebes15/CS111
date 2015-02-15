@@ -1,0 +1,12 @@
+//*******************************************************************************************************
+//Andreas Landgrebe cs111 fall semester 2012
+//
+//Lab 5 Problem 1
+//
+//Uses Student class to get lab and exam scores for two students and to compute and print out averages.
+//*******************************************************************************************************
+
+import java.util.Scanner;
+import java.text.DecimalFormat;
+
+public class GradeBook

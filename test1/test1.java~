@@ -1,0 +1,22 @@
+public class test1
+    
+    public static void main(String[] args)
+{
+    int i, j, k;
+    j = 10;
+    while (j > 2)
+	{
+	    for (k = 0; k < 3; k++)
+		{
+		    i = 1;
+		    while (i < 5)
+			{
+			    if ((j + k + i) > 12)
+				k = j + k;
+			    i = i + 2;
+			}
+		}
+	    j = j - 5;
+	    System.out.println ("k= " + k);
+	}
+}

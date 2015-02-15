@@ -1,0 +1,104 @@
+Script started on Wed 28 Nov 2012 09:47:05 AM EST
+]0;landgrebea@aldenv168: ~/cs111/lab10landgrebea@aldenv168:~/cs111/lab10$ java TestArrayc TestArray.java
+]0;landgrebea@aldenv168: ~/cs111/lab10landgrebea@aldenv168:~/cs111/lab10$ javac TestArray.java[6P TestArray
+Enter the size of the array:
+10
+Enter the next element:
+4
+Enter the next element:
+-7
+Enter the next element:
+3
+Enter the next element:
+21
+Enter the next element:
+16
+Enter the next element:
+8
+Enter the next element:
+0
+Enter the next element:
+0
+Enter the next element:
+1
+Enter the next element:
+10
+The original array:
+The elements are: 4, -7, 3, 21, 16, 8, 0, 0, 1, 10
+The sum of the element in the array is 56
+The product of the element in the array is: 0
+The maximum of the element in the array is: 21
+The array is in order false
+The reverse of the array is:The elements are: 10, 1, 0, 0, 8, 16, 21, 3, -7, 4
+The reverse of the array is:The elements are: 4, -7, 3, 21, 16, 8, 0, 0, 1, 10
+The array is larger than 47: true
+The array is larger than 4: false
+Enter the size of the array:
+6
+Enter the next element:
+1
+Enter the next element:
+-2
+Enter the next element:
+3
+Enter the next element:
+-4
+Enter the next element:
+8
+Enter the next element:
+0
+The array is:The elements are: 1, -2, 3, -4, 8, 0
+The sum of the arrays are:8
+Is 4 in the array(will return the index of the array or -1 if not found)?:-1
+Is 27 in the array(will retrun the index of the array or -1 if not found)?:-1
+The array rotated left is:-2,3,-4,8,0,1
+The ascending sorted array is:The elements are: -4, -4, -4, -4, 0, 0
+The descending sorted array is:The elements are: 0, 0, -4, -4, -4, -4
+]0;landgrebea@aldenv168: ~/cs111/lab10landgrebea@aldenv168:~/cs111/lab10$ java TestArrayc TestArray.java[6P TestArray
+Enter the size of the array:
+5
+Enter the next element:
+1
+Enter the next element:
+2
+Enter the next element:
+3
+Enter the next element:
+4
+Enter the next element:
+5
+The original array:
+The elements are: 1, 2, 3, 4, 5
+The sum of the element in the array is 15
+The product of the element in the array is: 120
+The maximum of the element in the array is: 5
+The array is in order true
+The reverse of the array is:The elements are: 5, 4, 3, 2, 1
+The reverse of the array is:The elements are: 1, 2, 3, 4, 5
+The array is larger than 47: true
+The array is larger than 4: false
+Enter the size of the array:
+6
+Enter the next element:
+5
+Enter the next element:
+4
+Enter the next element:
+3
+Enter the next element:
+2
+Enter the next element:
+1
+Enter the next element:
+0
+The array is:The elements are: 5, 4, 3, 2, 1, 0
+The sum of the arrays are:6
+Is 4 in the array(will return the index of the array or -1 if not found)?:1
+Is 27 in the array(will retrun the index of the array or -1 if not found)?:-1
+The array rotated left is:4,3,2,1,0,5
+The ascending sorted array is:The elements are: 0, 0, 0, 0, 0, 0
+The descending sorted array is:The elements are: 0, 0, 0, 0, 0, 0
+]0;landgrebea@aldenv168: ~/cs111/lab10landgrebea@aldenv168:~/cs111/lab10$ exit
+exit
+
+Script done on Wed 28 Nov 2012 09:48:12 AM EST

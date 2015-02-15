@@ -1,0 +1,49 @@
+Script started on Wed 19 Sep 2012 05:11:29 PM EDT
+]0;landgrebea@aldenv168: ~/cs111/lab3landgrebea@aldenv168:~/cs111/lab3$ java Problem3
+Enter the money amount
+47.63
+this amount of money is equvialent to
+4 ten dollar bills
+1 five dollar bills
+2 one dollar bills
+2 quarters
+1 dimes
+0 nickels
+3 pennies
+]0;landgrebea@aldenv168: ~/cs111/lab3landgrebea@aldenv168:~/cs111/lab3$ javac [K[K Problem [K3
+Enter the money amount
+412.27
+this amount of money is equvialent to
+41 ten dollar bills
+0 five dollar bills
+2 one dollar bills
+1 quarters
+0 dimes
+0 nickels
+2 pennies
+]0;landgrebea@aldenv168: ~/cs111/lab3landgrebea@aldenv168:~/cs111/lab3$ java Problem3
+Enter the money amount
+19.95
+this amount of money is equvialent to
+1 ten dollar bills
+1 five dollar bills
+4 one dollar bills
+3 quarters
+2 dimes
+0 nickels
+0 pennies
+]0;landgrebea@aldenv168: ~/cs111/lab3landgrebea@aldenv168:~/cs111/lab3$ java Problem [K3
+Enter the money amount
+15.50
+this amount of money is equvialent to
+1 ten dollar bills
+1 five dollar bills
+0 one dollar bills
+2 quarters
+0 dimes
+0 nickels
+0 pennies
+]0;landgrebea@aldenv168: ~/cs111/lab3landgrebea@aldenv168:~/cs111/lab3$ exit
+exit
+
+Script done on Wed 19 Sep 2012 05:13:45 PM EDT

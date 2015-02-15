@@ -1,0 +1,50 @@
+Script started on Wed 12 Sep 2012 04:31:12 PM EDT
+]0;landgrebea@aldenv168: ~/cs111/lab2landgrebea@aldenv168:~/cs111/lab2$ javqa [K[K[Ka Problem2
+enter how many hours
+1
+enter how many minutes
+28
+enter how many seconds
+42
+the time inputed is1 28 42
+the seconds is5322
+]0;landgrebea@aldenv168: ~/cs111/lab2landgrebea@aldenv168:~/cs111/lab2$ java A[KProblem2
+enter how many hours
+1
+enter how many minutes
+1
+enter how many seconds
+1
+the time inputed is1 1 1
+the seconds is3661
+]0;landgrebea@aldenv168: ~/cs111/lab2landgrebea@aldenv168:~/cs111/lab2$ java Problem [K2
+enter how many hours
+2
+enter how many minutes
+4
+enter how many seconds
+12
+the time inputed is2 4 12
+the seconds is7452
+]0;landgrebea@aldenv168: ~/cs111/lab2landgrebea@aldenv168:~/cs111/lab2$ java p[K[rtp[K[K[K[KProblem2
+enter how many hours
+5
+enter how many minutes
+6
+enter how many seconds
+7
+the time inputed is5 6 7
+the seconds is18367
+]0;landgrebea@aldenv168: ~/cs111/lab2landgrebea@aldenv168:~/cs111/lab2$ java Propb[K[Kblem2
+enter how many hours
+23
+enter how many minutes
+59
+enter how many seconds
+59
+the time inputed is23 59 59
+the seconds is86399
+]0;landgrebea@aldenv168: ~/cs111/lab2landgrebea@aldenv168:~/cs111/lab2$ exit
+exit
+
+Script done on Wed 12 Sep 2012 04:33:51 PM EDT

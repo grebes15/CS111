@@ -1,0 +1,85 @@
+//************************************************************************************************
+//Andreas Landgrebe cs111 fall semester 2012
+//
+//Lab 9 Problem 1
+//
+//design and write a Java program that will declare and instantiate a linear array with ten elements.
+//*************************************************************************************************
+
+public class Lab9
+{
+    public static void main (String[] args)
+	
+    public void populate(int [] x)
+{
+    int i;
+    int count = 0;
+    for(i = x.length; i>0;)
+	{
+	i = i - 1;
+    x[count] = i;
+    count = count + 1;
+    }
+}
+
+    public static int sum (int [] x)
+    {
+	int sum;
+	for (int i = 0; i<x.length; i++)
+	    {
+		sum = sum + x[i];
+	    }
+	return sum;
+    }
+
+    public static int product (int [] x)
+    {
+	int product;
+	for (int i = 0; i<x.length; i++)
+	    {
+		product = product * x[i];
+		    }
+	return product;
+	    }
+    
+    public static int maximum (int [] x)
+    {
+	int max;
+	max = 0;
+	for (int i = 0; i<x.length; i++)
+	    {
+		if (x[i] > max)
+		    max = x[i];
+	    }
+    }
+    public void  reverse (int [] x)
+    {
+	int sum = 0;
+	int product = x.length - 1;
+	int max = 0;
+	for (; max < x.length; max++)
+	    {
+		x[max] = x[product];
+		max++; product--;
+	    }
+    }
+    public static bollean inOrder (int [] x)
+    {
+	int sum = 0;
+	for (;sum < x.length - 1; sum++)
+	    {
+		if (x[sum] < x[sum + 1])
+		    return true;
+	    }
+    }
+    public static bollean LargerThanEach (int [] )
+    {
+	
+		
+	
+		
+		
+	    
+		
+		
+		

@@ -1,0 +1,45 @@
+Script started on Wed 26 Sep 2012 03:08:05 PM EDT
+]0;landgrebea@aldenv168: ~/cs111/lab4landgrebea@aldenv168:~/cs111/lab4$ java Probl,[Kem1
+enter first number x1
+1
+enter second number x2
+3
+enter third number y1
+2
+enter four number y2
+4
+the distance between the two points2.8284271247461903
+]0;landgrebea@aldenv168: ~/cs111/lab4landgrebea@aldenv168:~/cs111/lab4$ java Problem1
+enter first number x1
+15
+enter second number x2
+27
+enter third number y1
+4
+enter four number y2
+8
+the distance between the two points12.649110640673518
+]0;landgrebea@aldenv168: ~/cs111/lab4landgrebea@aldenv168:~/cs111/lab4$ java Problem2[K1
+enter first number x1
+101
+enter second number x2
+102
+enter third number y1
+57
+enter four number y2
+58
+the distance between the two points1.4142135623730951
+]0;landgrebea@aldenv168: ~/cs111/lab4landgrebea@aldenv168:~/cs111/lab4$ java Problem1
+enter first number x1
+15  30  15
+enter second number x2
+30
+enter third number y1
+45
+enter four number y2
+60
+the distance between the two points21.213203435596427
+]0;landgrebea@aldenv168: ~/cs111/lab4landgrebea@aldenv168:~/cs111/lab4$ exit
+exit
+
+Script done on Wed 26 Sep 2012 03:10:31 PM EDT

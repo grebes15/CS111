@@ -1,0 +1,25 @@
+Script started on Wed 26 Sep 2012 04:03:38 PM EDT
+]0;landgrebea@aldenv168: ~/cs111/lab4landgrebea@aldenv168:~/cs111/lab4$ java Probl3m[K[Kem2
+enter the radius
+1
+the volume is 4.1888
+the surface area is 12.5664
+]0;landgrebea@aldenv168: ~/cs111/lab4landgrebea@aldenv168:~/cs111/lab4$ java Problem12[K[K2
+enter the radius
+5.3
+the volume is 623.6145
+the surface area is 352.9894
+]0;landgrebea@aldenv168: ~/cs111/lab4landgrebea@aldenv168:~/cs111/lab4$ jav [Ka Problem2
+enter the radius
+17.87
+the volume is 23903.5424
+the surface area is 4012.9058
+]0;landgrebea@aldenv168: ~/cs111/lab4landgrebea@aldenv168:~/cs111/lab4$ java Problem2
+enter the radius
+15
+the volume is 14137.1669
+the surface area is 2827.4334
+]0;landgrebea@aldenv168: ~/cs111/lab4landgrebea@aldenv168:~/cs111/lab4$ exit
+exit
+
+Script done on Wed 26 Sep 2012 04:04:34 PM EDT

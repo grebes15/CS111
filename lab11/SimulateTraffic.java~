@@ -1,0 +1,20 @@
+//*************************************************************
+//Andreas Landgrebe cs111 fall semester 2012
+//
+//Lab 11 Problem 2
+//
+//Sets up an application class that runs a traffic simulation
+//*************************************************************
+java import.util.*;
+public class SimulateTraffic
+{
+    public static void main(String[] args)
+    {
+	Scanner scan = new Scanner (System.in);
+	System.out.println ("Enter the number of periods");
+	periods = scan.nextInt();
+	System.out.println("Enter the number of slices");
+	slices = scan.nextInt();
+	
+    
+    

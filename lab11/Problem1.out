@@ -1,0 +1,24 @@
+Script started on Tue 04 Dec 2012 06:36:10 PM EST
+]0;landgrebea@aldenv180: ~/cs111/lab11landgrebea@aldenv180:~/cs111/lab11$ java Dotsc Dots.javaemacs Dots.java&[2Pjava DotsPanelc DotsPanel.javaemacs DotsPanel.java&[10Pcd download[3Pcs111[5Ptopemacs SimulateTraffic.java&[9Pjavac Traffic.javaemacs Traffic.java&[11Pcd lab111[Kemacs Traffic.java&[1Pjavac Traffic.javaemacs SimulateTraffic.java&top[Kcd cs111downloademacs DotsPanel.java&[1Pjavac DotsPanel.java[6P DotsPanelemacs Dots.java&[1Pjavac Dots.java[6P Dots[Kjava Dots[Kjavac [K[K Simulate[KT[KeTraffic
+Enter the number of periods
+12
+Enter the number of slices
+100
+Interval		Eastbound		Westbound
+1			77			61
+2			64			69
+3			63			80
+4			59			75
+5			93			46
+6			68			64
+7			65			76
+8			77			71
+9			64			73
+10			52			90
+11			59			78
+12			75			72
+
+]0;landgrebea@aldenv180: ~/cs111/lab11landgrebea@aldenv180:~/cs111/lab11$ we[K[Kexit
+exit
+
+Script done on Tue 04 Dec 2012 06:36:46 PM EST

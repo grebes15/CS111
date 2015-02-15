@@ -1,0 +1,53 @@
+Script started on Wed 19 Sep 2012 03:15:31 PM EDT
+]0;landgrebea@aldenv168: ~/cs111/lab3landgrebea@aldenv168:~/cs111/lab3$ jvava [K[K[K[K[Kava Problem1[K[K[K[K[K[K[K[K[K[K[K[K[Kjava Proble[K[K[K[K[K[K[K[K[K[K[Kjava Problem [K1
+enter your name
+Mary SMith    mith
+enter your age
+18
+enter your college
+Aller gheny College
+enter your petname
+Buster
+Hello, my name is Mary Smith and I am 18 years
+old. I'm enjoying my time at Allegheny College, though
+I miss my pet Buster very much!
+]0;landgrebea@aldenv168: ~/cs111/lab3landgrebea@aldenv168:~/cs111/lab3$ java Problem1
+enter your name
+Bill Gezornenblat5 z
+enter your age
+19
+enter your college
+H jU  Jui mn  niata College
+enter your petname
+Ry usty
+Hello, my name is Bill Gezornenblatz and I am 19 years
+old. I'm enjoying my time at Juniata College, though
+I miss my pet Rusty very much!
+]0;landgrebea@aldenv168: ~/cs111/lab3landgrebea@aldenv168:~/cs111/lab3$ java[K[K[K[Kjava Problem1
+enter your name
+Harold Ph   BI   BIll    Billings  
+enter your age
+21
+enter your college
+BO owdoin College
+enter your petname
+Heather
+Hello, my name is Harold Billings and I am 21 years
+old. I'm enjoying my time at Bowdoin College, though
+I miss my pet Heather very much!
+]0;landgrebea@aldenv168: ~/cs111/lab3landgrebea@aldenv168:~/cs111/lab3$ exit[K[K[K[Kjava [K Problem1
+enter your name
+ANdreas      ndreas Landgrebe
+enter your age
+198  8
+enter your college
+Allegheny College
+enter your petname
+Lucky
+Hello, my name is Andreas Landgrebe and I am 18 years
+old. I'm enjoying my time at Allegheny College, though
+I miss my pet Lucky very much!
+]0;landgrebea@aldenv168: ~/cs111/lab3landgrebea@aldenv168:~/cs111/lab3$ exit
+exit
+
+Script done on Wed 19 Sep 2012 03:20:31 PM EDT
